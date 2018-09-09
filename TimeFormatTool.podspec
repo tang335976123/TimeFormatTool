@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TimeFormatTool'
-  s.version          = '0.0.3'
+  s.version          = '0.0.1'
   s.summary          = '时间格式转换'
 
 
