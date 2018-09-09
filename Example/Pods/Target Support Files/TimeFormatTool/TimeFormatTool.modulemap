@@ -1,0 +1,6 @@
+framework module TimeFormatTool {
+  umbrella header "TimeFormatTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
